@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "email": "michael.lawson@reqres.in",
+      "first_name": "Michael",
+      "last_name": "Lawson",
+      "id": 1,
+      "subjectID": 1
+    },
+    {
+      "email": "tariq.lawson@reqres.in",
+      "first_name": "Tariq",
+      "last_name": "Ali",
+      "id": 2,
+      "subjectID": 2
+    },
+    {
+      "email": "antojerik@yajoo.in",
+      "first_name": "Anto",
+      "last_name": "jerik",
+      "id": 3,
+      "subjectID": 1
+    },
+    {
+      "id": 4
+    },
+    {
+      "email": "aravindh@yajoo.in",
+      "first_name": "ARun",
+      "last_name": "kowshik",
+      "subjectID": 1,
+      "id": 5
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Automation",
+      "id": 1
+    },
+    {
+      "name": "Devops",
+      "id": 2
+    }
+  ]
+}
